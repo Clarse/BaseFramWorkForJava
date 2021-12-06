@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="login">登录</string>
+    <string name="please_input_user_name">请输入用户名</string>
+    <string name="please_input_password">请输入密码</string>
+    <string name="register">没账号？注册一个</string>
+    <string name="text_register">注册</string>
+    <string name="please_input_password_repeat">请再次输入密码</string>
+    <string name="pass_regex">密码必须为8~16位，且包含大写，小写字母和数字</string>
+</resources>
